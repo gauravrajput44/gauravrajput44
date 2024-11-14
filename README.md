@@ -13,6 +13,15 @@ I am a passionate Software Engineer specializing in test automatiom, test ops, t
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Unix/Linux](https://img.shields.io/badge/Unix%2FLinux-000000?style=for-the-badge&logo=linux&logoColor=white)
+![Allure](https://img.shields.io/badge/Allure-2B94B5?style=for-the-badge&logo=allure&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00618D?style=for-the-badge&logo=database&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1B2A?style=for-the-badge&logo=helm&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-000000?style=for-the-badge&logo=argocd&logoColor=white)
+![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Gherkin](https://img.shields.io/badge/Gherkin-4B4B4B?style=for-the-badge&logo=gherkin&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D200?style=for-the-badge&logo=cucumber&logoColor=white)
+
 
 ### 🌱 Currently Learning
 - Advanced testing techniques in Playwright

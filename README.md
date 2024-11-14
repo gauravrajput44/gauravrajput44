@@ -27,7 +27,7 @@ I am a passionate Software Engineer specializing in test automatiom, test ops, t
 - Advanced testing techniques in Playwright
 - Microservices and Kubernetes orchestration
 - Deepening my knowledge of REST principles
-- Sprint boot to develop APIs and integration tests
+- Spring boot to develop APIs and integration tests
 
 ### 💼 Professional Interests
 - End-to-end testing and automation

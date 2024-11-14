@@ -1,6 +1,6 @@
 # Hello 👋, I'm Gaurav
 
-I am a passionate Software Engineer specializing in test automatiom, test ops, test processes, test startegoes and a bit flair of backend development(Java and Go lang). 
+I am a passionate Software Engineer specializing in test automatiom, test ops, test processes, test strategies and a bit flair of backend development(Java and Go lang). 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=gauravrajput44&color=blue&style=flat)
 

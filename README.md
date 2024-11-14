@@ -34,6 +34,7 @@ I am a passionate Software Engineer specializing in test automatiom, test ops, t
 - I have implemented a couple of playwright frameworks as well but those are private repos. Access can be given on request
 
 ## 🤝 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/gaurav-kumar-20)
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)]([https://twitter.com/yourprofile](https://x.com/gauravkiet06))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gaurav-kumar-20)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/gauravkiet06)
+
 

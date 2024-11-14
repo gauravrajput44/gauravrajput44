@@ -26,7 +26,7 @@ I am a passionate Software Engineer specializing in test automatiom, test ops, t
 - Exploring new technologies to improve product quality
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravrajput44&show_icons=true&theme=radical)
 
 ## 📌 Featured Projects
 - [**Docker Selenium Test NG**](https://github.com/gauravrajput44/docker-container-testng-selenium) – Containerised Selenium tests, run using single command  `docker-compose up -d`

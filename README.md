@@ -37,10 +37,9 @@ I am a passionate Software Engineer specializing in test automatiom, test ops, t
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gauravrajput44&show_icons=true&theme=radical)
 
-## 📌 Featured Projects
-- [**Docker Selenium Test NG**](https://github.com/gauravrajput44/docker-container-testng-selenium) – Containerised Selenium tests, run using single command  `docker-compose up -d`
-- [**Cucumber Rest Assured**](https://github.com/gauravrajput44/cucumber-restassured)) –  Cucumber rest assured
-- I have implemented a couple of playwright frameworks as well but those are private repos. Access can be given on request
+## 📊 Most Used Languages
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauravrajput44&layout=compact&theme=radical)
 
 ## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/gaurav-kumar-20)

@@ -21,7 +21,9 @@ I am a passionate Software Engineer specializing in test automatiom, test ops, t
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Gherkin](https://img.shields.io/badge/Gherkin-4B4B4B?style=for-the-badge&logo=gherkin&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D200?style=for-the-badge&logo=cucumber&logoColor=white)
-
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 ### 🌱 Currently Learning
 - Advanced testing techniques in Playwright
